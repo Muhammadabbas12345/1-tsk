@@ -1,0 +1,13 @@
+.we{
+
+  
+background-color: blueviolet;
+height: 200px;
+width: 300px;
+margin: 1%;
+
+}
+#id1{
+    display: flex;
+    flex-wrap: wrap;
+}
